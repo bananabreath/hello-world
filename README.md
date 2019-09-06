@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi everyone!
+
+Following the guide making some changes to this readme.
